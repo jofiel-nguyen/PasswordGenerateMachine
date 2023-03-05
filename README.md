@@ -1,7 +1,6 @@
 # 03 JavaScript: Password Generator
 
 ## Welcome To My Project
-```   ```
 ## User Story
 
 ```
