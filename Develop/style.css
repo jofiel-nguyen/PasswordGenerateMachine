@@ -118,6 +118,8 @@ button[disabled] {
   overflow: hidden;
 }
 footer{
+  text-align: center;
+  background-color: aqua;
   
 }
 @media (max-width: 690px) {
@@ -136,4 +138,9 @@ footer{
   .btn {
     font-size: 0.8rem;
   }
+
+  footer {
+    background-color: pink;
+    text-align: left;
+}
 }
