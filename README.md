@@ -2,6 +2,10 @@
 
 ## Welcome To My Project
 ## User Story
+```
+This is my deployed link: 
+https://nhunguyen-debug.github.io/MyChallenge3-Passwordgenerate/
+```
 
 ```
 AS AN employee with access to sensitive data
